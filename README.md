@@ -3,4 +3,4 @@
 
 ### This website uses the Recipe Search API from Edemam.com. This API has the data of tens of thousands of foods, simply search any type of dish you like and it will find you its ingredients.
 
-https://i.gyazo.com/cd5cfb5985751f2ccb73ccf5dcf7b508.mp4
+https://i.gyazo.com/82d7e9ad694fc5cd9ef3351dfa1ca196.gif
