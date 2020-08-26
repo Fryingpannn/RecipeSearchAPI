@@ -1,0 +1,20 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(71,71,71);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background: white;
+    align-items: center;
+    min-width: 50%;  /* makes them in 1 column! all have to be this size minimally */
+}
+
+.image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 7px;
+}
+
+/* to add css module for components, will not matter if use same class name */
