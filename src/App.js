@@ -7,6 +7,7 @@ import './App.css';
 
 const App = () => {
 
+  //should use env variables...
   const APP_ID = 'd40c2f29';
   const APP_KEY = '4330d7b01907e83778c80814e2bd894c';
 
@@ -18,10 +19,10 @@ const App = () => {
   // }, [])
   
 //STATES
-//setRecipes(data.hits) will store the API data to 'recipes' state here 
+                                            //setRecipes(data.hits) will store the API data to 'recipes' state here 
 const [recipes, setRecipes] = useState([]); //array because data.hits is an array (check with inspect element)
 const [search, setSearch] = useState(""); //state to store user input for search bar, emtpy to begin with
-const [query, setQuery] = useState("croissant");
+const [query, setQuery] = useState("croissant"); //state to store the final query when press search
 
 //EFFECTS
 //activates on page load, and everytime [] is updated (never lel)
