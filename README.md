@@ -1,7 +1,7 @@
 # Recipe Search API https://recipesearchapi.web.app
-### The purpose of this project is to practice React.js and API fetching.
+#### The purpose of this project is to practice React.js and API fetching.
 
-### This website uses the Recipe Search API from Edemam.com. This API has the data of tens of thousands of foods, simply search any type of dish you like and it will find you its ingredients.
+#### This website uses the Recipe Search API from Edemam.com. This API has the data of tens of thousands of foods, simply search any type of dish you like and it will find you its ingredients.
 
 ### Familiarized myself with: 
 > - React.js Hooks (State/Effect)
